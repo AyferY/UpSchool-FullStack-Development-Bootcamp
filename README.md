@@ -1,1 +1,1 @@
-# UpSchool-FullStack-Development-Bootcamp
+# UpSchool
