@@ -1,0 +1,51 @@
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.deps.json
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.runtimeconfig.json
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.dll
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.pdb
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfo.cs
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CopyComplete
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\refint\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.genruntimeconfig.cache
+C:\Users\AyferYildirim\Desktop\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\ref\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.deps.json
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.runtimeconfig.json
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfo.cs
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CopyComplete
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\refint\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.genruntimeconfig.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\ref\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.deps.json
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.runtimeconfig.json
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\bin\Debug\net7.0\UpStorage.Domain.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.AssemblyInfo.cs
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.csproj.CopyComplete
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\refint\UpStorage.Infrastructure.dll
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.pdb
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\UpStorage.Infrastructure.genruntimeconfig.cache
+C:\Users\AyferYildirim\Desktop\Backup\dbçalışanversiyon -emailiçin\UpSchoolCapstoneProject\UpStorage\UpStorage.Infrastructure\obj\Debug\net7.0\ref\UpStorage.Infrastructure.dll
