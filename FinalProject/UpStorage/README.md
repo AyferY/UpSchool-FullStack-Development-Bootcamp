@@ -1,3 +1,3 @@
 "# UpStorage"
 
-![Alt Text](C:\Users\AyferYildirim\Desktop\test.png)
+![Alt Text](.\Desktop\test.png)
