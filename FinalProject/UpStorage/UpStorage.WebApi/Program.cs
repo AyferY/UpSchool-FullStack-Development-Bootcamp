@@ -45,6 +45,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.MapHub<UpStorageHub>("/Hubs/UpStorageLogHub");
+app.MapHub<UpStorageLogHub>("/Hubs/UpStorageLogHub");
+app.MapHub<UpStorageProductHub>("/Hubs/UpStorageProductHub");
+app.MapHub<UpStorageOrderHub>("/Hubs/UpStorageOrderHub");
+app.MapHub<UpStorageOrderEventHub>("/Hubs/UpStorageOrderEventHub");
 
 app.Run();

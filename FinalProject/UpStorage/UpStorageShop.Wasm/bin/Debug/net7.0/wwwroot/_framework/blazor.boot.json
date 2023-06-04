@@ -207,14 +207,14 @@
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
       "UpStorage.Domain.dll": "sha256-CjeUMIEm1ArSfM11R51rs5CWHZTC8EOaK2jDX2mk68Y=",
-      "UpStorage.Wasm.dll": "sha256-yhoeHHOAD8dDEOBkvt\/JQnvd9bLLmpWjJGlfR3cL2Vs="
+      "UpStorage.Wasm.dll": "sha256-AthETfQ3Y7\/cu12LVwXqsaStIW5A4fp4nNpTMS1A8kk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "UpStorage.Domain.pdb": "sha256-wy5gp+ef38Eq24kJ7\/tCUpyLuhELZEVCbTzfikU8xnQ=",
-      "UpStorage.Wasm.pdb": "sha256-7A8q5d\/aT3t4TTseluggUsED5Q+zAhr88\/PUe8dRdHs="
+      "UpStorage.Wasm.pdb": "sha256-gcr2gR5u\/R\/gT9++D+EQGqkWZ9NWdzpoUxcOipDqN+E="
     },
     "runtime": {
       "dotnet.7.0.4.8wb9ddpt1j.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

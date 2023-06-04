@@ -46,7 +46,13 @@
             InvokeAsync(StateHasChanged);
         });
 
-        hubConnection.On<UpStorageProductDto>("AddedProduct", (upStorageproductDto) =>
+        var productHubConnection = new HubConnectionBuilder()
+            .WithUrl($"https://localhost:7275/Hubs/UpStorageProductHub")
+            .WithAutomaticReconnect()
+            .Build();
+
+        await productHubConnection.StartAsync();
+        productHubConnection.On<UpStorageProductDto>("AddedProduct", (upStorageproductDto) =>
         {
             products.Add(upStorageproductDto);
 
